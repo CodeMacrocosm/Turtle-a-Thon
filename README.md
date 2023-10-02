@@ -3,7 +3,7 @@
 Welcome to Turtle-A-Thon-23, the ultimate Turtle GUI Python hackathon for Hacktoberfest 2023!
 
 ## What is Turtle-A-Thon? 🐢
-Turtle-A-Thon is a creative and engaging hackathon that celebrates the versatility and fun of the Turtle graphics library in Python. Turtle-A-Thon invites you to dive into the world of graphical programming, unleash your creativity, and build exciting Turtle-based projects.
+Turtle-A-Thon is a creative and engaging hackathon that celebrates the versatility and fun of the Turtle graphics library in Python. Turtle-a-Thon invites you to dive into the world of graphical programming, unleash your creativity, and build exciting Turtle-based projects.
 
 ## How to Contribute 📝
 
@@ -13,7 +13,7 @@ Turtle-A-Thon is a creative and engaging hackathon that celebrates the versatili
 ### 2. Clone Your Fork 📥
 - Clone your forked repository to your local machine:
   ```bash
-  git clone https://github.com/your-username/Turtle-A-Thon-23.git
+  git clone https://github.com/CodeMacrocosm/Turtle-a-Thon-23.git
   ```
 
 ### 3. Create a Branch 🌿
@@ -28,7 +28,7 @@ Turtle-A-Thon is a creative and engaging hackathon that celebrates the versatili
 ### 5. Organize Your Project 📂
 - Inside the `Turtle-A-Thon` folder, create a new folder for your project with its name.
 - Your project folder should contain:
-  - The Turtle GUI Python program.
+  - The Turtle GUI Python program file and a gif file
   - A README.md file with details about your project, including your name as the author and a GIF showcasing your project.
 
 ### 6. Commit and Push 🚢
