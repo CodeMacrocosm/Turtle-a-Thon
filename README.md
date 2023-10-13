@@ -45,7 +45,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
 
 ## Overview
-Turtle-A-Thon is a creative and engaging hackathon that celebrates the versatility and fun of the Turtle graphics library in Python 🐢. Turtle-a-Thon invites you to dive into the world of graphical programming, unleash your creativity, and build exciting Turtle-based projects.
+Turtle-A-Thon is a creative and engaging 🚀 hackathon hosted by **Shreya Malogi**, that celebrates the versatility and fun of the Turtle graphics library in Python 🐢. Turtle-a-Thon invites you to dive into the world of graphical programming,  🌿 unleash your creativity, and build exciting Turtle-based projects 📂.
 
 ## How to Contribute 
 
