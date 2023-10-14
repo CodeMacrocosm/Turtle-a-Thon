@@ -15,4 +15,4 @@ you can create different pattern by just entering the number of the sides of the
 
 ## Project Showcase
 
-![Patten](https://github.com/CodeMacrocosm/Turtle-a-Thon-23/SierpinskiPatterns/sierpinski_patterns.gif)
+![Patten](https://github.com/CodeMacrocosm/Turtle-a-Thon-23/SierpinskiPatterns/sierpinski.gif)
