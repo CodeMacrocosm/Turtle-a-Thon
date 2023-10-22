@@ -9,7 +9,7 @@
 </div>
 <p align="center">
   <a href="https://github.com/CodeMacrocosm/Turtle-a-Thon-23/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Turtle-a-Thon-23?style=flat-square" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/codemacrocosm/Turtle-a-Thon-23?style=flat-square" alt="GitHub stars">
   </a>
   <a href="https://github.com/CodeMacrocosm/Turtle-a-Thon-23/network">
     <img src="https://img.shields.io/github/forks/CodeMacrocosm/Turtle-a-Thon-23?style=flat-square" alt="GitHub forks">
