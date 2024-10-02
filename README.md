@@ -8,16 +8,16 @@
 
 </div>
 <p align="center">
-  <a href="https://github.com/CodeMacrocosm/Turtle-a-Thon-23/stargazers">
-    <img src="https://img.shields.io/github/stars/codemacrocosm/Turtle-a-Thon-23?style=flat-square" alt="GitHub stars">
+  <a href="https://github.com/CodeMacrocosm/Turtle-a-Thon/stargazers">
+    <img src="https://img.shields.io/github/stars/codemacrocosm/Turtle-a-Thon?style=flat-square" alt="GitHub stars">
   </a>
-  <a href="https://github.com/CodeMacrocosm/Turtle-a-Thon-23/network">
-    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Turtle-a-Thon-23?style=flat-square" alt="GitHub forks">
+  <a href="https://github.com/CodeMacrocosm/Turtle-a-Thon/network">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Turtle-a-Thon?style=flat-square" alt="GitHub forks">
   </a>
-  <a href="https://github.com/codemacrocosm/Turtle-a-Thon-23/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/codemacrocosm/Turtle-a-Thon-23.svg" alt="GitHub contributors">
+  <a href="https://github.com/codemacrocosm/Turtle-a-Thon/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Turtle-a-Thon.svg" alt="GitHub contributors">
   </a>
-  <img src="https://img.shields.io/github/license/CodeMacrocosm/Turtle-a-Thon-23" alt="GitHub">
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Turtle-a-Thon" alt="GitHub">
 </p>
 
 <div align="center">
@@ -26,8 +26,8 @@
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
-<a href="https://github.com/codeMacrocosm/Turtle-a-Thon-23/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Turtle-a-Thon-23" />
+<a href="https://github.com/codeMacrocosm/Turtle-a-Thon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Turtle-a-Thon" />
 </a>
 
 </div>
@@ -39,7 +39,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
 1. [Overview](#overview)
 3. [How to Contribute?](#how-to-contribute)
-4. [Star and contribute](https://github.com/CodeMacrocosm/Turtle-a-Thon-23/edit/main/README.md#star-and-contribute)
+4. [Star and contribute](https://github.com/CodeMacrocosm/Turtle-a-Thon/edit/main/README.md#star-and-contribute)
 5. [License](#-license)
 
 
@@ -55,7 +55,7 @@ Turtle-A-Thon is a creative and engaging 🚀 hackathon hosted by **Shreya Malog
 ### 2. Clone Your Fork 📥
 - Clone your forked repository to your local machine:
   ```bash
-  git clone https://github.com/CodeMacrocosm/Turtle-a-Thon-23.git
+  git clone https://github.com/CodeMacrocosm/Turtle-a-Thon.git
   ```
 
 ### 3. Create a Branch 🌿
