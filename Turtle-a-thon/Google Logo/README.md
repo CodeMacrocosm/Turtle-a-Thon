@@ -1,4 +1,4 @@
-# Google Logo Artistry 🌈✨
+# Google Logo Artistry ✨
 
 Welcome to the Google Logo Artistry project, where Shreya Malogi has skillfully crafted the iconic Google logo with a touch of creativity and vibrant colors.
 
