@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ✨ Turtle-A-Thon' 23:  Dancing Turtles Codee 🐢
+# ✨ Turtle-A-Thon' 23:  Dancing Turtles Code🐢
 
 </div>
 <p align="center">
